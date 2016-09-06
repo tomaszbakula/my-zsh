@@ -49,6 +49,7 @@ source $ZSH/oh-my-zsh.sh
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
 
 # Aliases
+alias ld='ls -lhd .*'  # List only hidden elements
 alias wtf='dmesg'
 
 # Syntax Highlighting Settings
