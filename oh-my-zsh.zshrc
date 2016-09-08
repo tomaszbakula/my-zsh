@@ -30,7 +30,7 @@ setopt HIST_FIND_NO_DUPS
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-completions)
+plugins=(vagrant composer zsh-autosuggestions zsh-syntax-highlighting git zsh-completions)
 
 autoload -U compinit && compinit
 
