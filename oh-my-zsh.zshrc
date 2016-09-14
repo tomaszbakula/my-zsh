@@ -14,7 +14,7 @@ ZSH_THEME="robbyrussell"
 HYPHEN_INSENSITIVE="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
-export UPDATE_ZSH_DAYS=1
+export UPDATE_ZSH_DAYS=7
 
 # Uncomment the following line to enable command auto-correction.
 ENABLE_CORRECTION="true"
