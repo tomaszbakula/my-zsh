@@ -51,6 +51,8 @@ source $ZSH/oh-my-zsh.sh
 # Aliases
 alias ld='ls -lhd .*'  # List only hidden elements
 alias wtf='dmesg'
+alias sysup='sudo pacman -Syu'
+alias sysupy='yaourt -Syu --aur'
 
 # Syntax Highlighting Settings
 ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
